@@ -1,0 +1,7 @@
+/Users/gozdemogus/Projects/PersonalPage/PersonalPage/bin/release/net6.0/publish/PersonalPage
+/Users/gozdemogus/Projects/PersonalPage/PersonalPage/bin/release/net6.0/publish/appsettings.Development.json
+/Users/gozdemogus/Projects/PersonalPage/PersonalPage/bin/release/net6.0/publish/appsettings.json
+/Users/gozdemogus/Projects/PersonalPage/PersonalPage/bin/release/net6.0/publish/PersonalPage.dll
+/Users/gozdemogus/Projects/PersonalPage/PersonalPage/bin/release/net6.0/publish/PersonalPage.deps.json
+/Users/gozdemogus/Projects/PersonalPage/PersonalPage/bin/release/net6.0/publish/PersonalPage.runtimeconfig.json
+/Users/gozdemogus/Projects/PersonalPage/PersonalPage/bin/release/net6.0/publish/PersonalPage.pdb

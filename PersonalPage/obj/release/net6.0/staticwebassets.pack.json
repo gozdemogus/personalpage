@@ -1,0 +1,777 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/obj/release/net6.0/scopedcss/projectbundle/PersonalPage.bundle.scp.css",
+      "PackagePath": "staticwebassets/PersonalPage.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/gozdem.jpeg",
+      "PackagePath": "staticwebassets/gozdem.jpeg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/css/animate.css",
+      "PackagePath": "staticwebassets/tema/css/animate.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/css/bootstrap.css",
+      "PackagePath": "staticwebassets/tema/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/tema/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/css/flexslider.css",
+      "PackagePath": "staticwebassets/tema/css/flexslider.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/css/icomoon.css",
+      "PackagePath": "staticwebassets/tema/css/icomoon.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/css/style.css",
+      "PackagePath": "staticwebassets/tema/css/style.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/css/style.css.map",
+      "PackagePath": "staticwebassets/tema/css/style.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/bootstrap/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/tema/fonts/bootstrap/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/bootstrap/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/tema/fonts/bootstrap/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/bootstrap/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/tema/fonts/bootstrap/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/bootstrap/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/tema/fonts/bootstrap/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/bootstrap/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/tema/fonts/bootstrap/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon.eot",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon.eot"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon.svg",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon.svg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon.ttf",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon.ttf"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon.woff",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon.woff"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/Read Me.txt",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/Read Me.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/demo-files/demo.css",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/demo-files/demo.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/demo-files/demo.js",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/demo-files/demo.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/demo.html",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/demo.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/fonts/icomoon.eot",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/fonts/icomoon.eot"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/fonts/icomoon.svg",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/fonts/icomoon.svg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/fonts/icomoon.ttf",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/fonts/icomoon.ttf"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/fonts/icomoon.woff",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/fonts/icomoon.woff"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/selection.json",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/selection.json"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/fonts/icomoon/icomoon/style.css",
+      "PackagePath": "staticwebassets/tema/fonts/icomoon/icomoon/style.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/blog-1.jpg",
+      "PackagePath": "staticwebassets/tema/images/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/blog-2.jpg",
+      "PackagePath": "staticwebassets/tema/images/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/cover_bg_1.jpg",
+      "PackagePath": "staticwebassets/tema/images/cover_bg_1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/cover_bg_3.jpg",
+      "PackagePath": "staticwebassets/tema/images/cover_bg_3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/loader.gif",
+      "PackagePath": "staticwebassets/tema/images/loader.gif"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/loc.png",
+      "PackagePath": "staticwebassets/tema/images/loc.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-1.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-2.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-3.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-4.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-4.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-5.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-5.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-6.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-6.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-7.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-7.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/portfolio-8.jpg",
+      "PackagePath": "staticwebassets/tema/images/portfolio-8.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/images/user-3.jpg",
+      "PackagePath": "staticwebassets/tema/images/user-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/index.html",
+      "PackagePath": "staticwebassets/tema/index.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/tema/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/google_map.js",
+      "PackagePath": "staticwebassets/tema/js/google_map.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets/tema/js/jquery.easing.1.3.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets/tema/js/jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/jquery.min.js",
+      "PackagePath": "staticwebassets/tema/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/jquery.stellar.min.js",
+      "PackagePath": "staticwebassets/tema/js/jquery.stellar.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets/tema/js/jquery.waypoints.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/main.js",
+      "PackagePath": "staticwebassets/tema/js/main.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets/tema/js/modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/js/respond.min.js",
+      "PackagePath": "staticwebassets/tema/js/respond.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/_bootstrap-compass.scss",
+      "PackagePath": "staticwebassets/tema/sass/_bootstrap-compass.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/_bootstrap-mincer.scss",
+      "PackagePath": "staticwebassets/tema/sass/_bootstrap-mincer.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/_bootstrap-sprockets.scss",
+      "PackagePath": "staticwebassets/tema/sass/_bootstrap-sprockets.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_alerts.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_alerts.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_badges.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_badges.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_button-groups.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_button-groups.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_code.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_code.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_component-animations.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_component-animations.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_dropdowns.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_dropdowns.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_glyphicons.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_glyphicons.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_input-groups.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_input-groups.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_jumbotron.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_jumbotron.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_labels.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_labels.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_media.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_media.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_modals.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_modals.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_navs.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_navs.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_normalize.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_normalize.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_pager.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_pager.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_panels.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_panels.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_popovers.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_popovers.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_print.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_print.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_progress-bars.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_progress-bars.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_responsive-embed.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_responsive-embed.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_responsive-utilities.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_responsive-utilities.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_scaffolding.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_scaffolding.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_theme.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_theme.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_thumbnails.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_thumbnails.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/_wells.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/_wells.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_alerts.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_alerts.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_background-variant.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_background-variant.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_center-block.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_center-block.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_grid-framework.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_grid-framework.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_hide-text.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_hide-text.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_labels.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_labels.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_nav-divider.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_nav-divider.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_nav-vertical-align.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_opacity.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_opacity.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_panels.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_panels.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_progress-bar.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_progress-bar.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_reset-filter.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_reset-filter.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_responsive-visibility.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_responsive-visibility.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_size.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_size.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_tab-focus.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_tab-focus.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_table-row.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_table-row.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_text-emphasis.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_text-emphasis.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_text-overflow.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_text-overflow.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/bootstrap/mixins/_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets/tema/sass/bootstrap/mixins/_vendor-prefixes.scss"
+    },
+    {
+      "Id": "/Users/gozdemogus/Projects/PersonalPage/PersonalPage/wwwroot/tema/sass/style.scss",
+      "PackagePath": "staticwebassets/tema/sass/style.scss"
+    },
+    {
+      "Id": "obj/release/net6.0/staticwebassets/msbuild.PersonalPage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/release/net6.0/staticwebassets/msbuild.build.PersonalPage.props",
+      "PackagePath": "build\\PersonalPage.props"
+    },
+    {
+      "Id": "obj/release/net6.0/staticwebassets/msbuild.buildMultiTargeting.PersonalPage.props",
+      "PackagePath": "buildMultiTargeting\\PersonalPage.props"
+    },
+    {
+      "Id": "obj/release/net6.0/staticwebassets/msbuild.buildTransitive.PersonalPage.props",
+      "PackagePath": "buildTransitive\\PersonalPage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
